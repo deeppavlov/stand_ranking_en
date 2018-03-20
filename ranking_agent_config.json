@@ -1,0 +1,20 @@
+{
+	"kpi_name":"ranking_en",
+    "api_host":"0.0.0.0",
+    "api_port":6009,
+    "api_debug":0,
+	"kpis":
+	{
+		"ranking_en":
+		{
+			"settings_kpi":
+				{
+					"rest_url":""
+				},
+			"settings_agent":
+				{
+					"model_config_path":"ranking_model_config.json"
+				}
+		}
+	}
+}
