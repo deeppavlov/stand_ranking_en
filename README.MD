@@ -26,7 +26,7 @@
         ```
     3. Install `spacy` dependencies:
         ```
-            python -m spacy download en
+        python -m spacy download en
         ```
     4. Download pre-trained models:
         ```
