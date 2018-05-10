@@ -110,4 +110,4 @@ venv.bak/
 # Project
 DeepPavlov/
 dp_lpg.log
-ranking_en.log
+stand_ranking_en.log
