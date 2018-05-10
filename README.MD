@@ -51,7 +51,7 @@
 ## Building and running with Docker:
 1. If necessary, build base docker_cuda and docker_deeppavlov images from:
 
-   https://github.com/deepmipt/stand_docker_cuda
+   https://github.com/deepmipt/stand_docker_base
   
 2. Clone the repo and `cd` to project root:
     ```
